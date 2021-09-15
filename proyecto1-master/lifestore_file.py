@@ -1430,3 +1430,6 @@ lifestore_searches = [
 """Productos más vendidos y productos rezagados:
 Generar un listado de los 50 productos con mayores ventas y uno con 
 los 100 productos con mayor búsquedas."""
+#Generamos una lista para que se vayan agregando las ventas
+venta_productos = lifestore_sales[1]
+print(venta_productos)
