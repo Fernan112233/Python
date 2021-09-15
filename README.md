@@ -1,2 +1,0 @@
-# Python
-Proyecto de Emtech
